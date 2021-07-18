@@ -1,0 +1,6 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(òé²Êÿÿÿÿÿ8•—ãÁ«/
+
+java:S32524"eUse static access with "org.apache.hadoop.mapreduce.lib.output.FileOutputFormat" for "setOutputPath".(äÂ€~8¥‘æÁ«/
+
+java:S3252"bUse static access with "org.apache.hadoop.mapreduce.lib.input.FileInputFormat" for "addInputPath".(»¹Á8•—ãÁ«/
